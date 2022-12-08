@@ -7,3 +7,5 @@ In this project, I've used openCV which is an Open Source Computer Vision Librar
 # Features 
 1) Can track hand movements in real-time.
 2) Can change your system's volume based on your hand movement.
+
+
